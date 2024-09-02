@@ -1,0 +1,3 @@
+# Replace the np.nan values with its mean value
+
+You should see the number of missing values of the PayLoadMass change to zero.
